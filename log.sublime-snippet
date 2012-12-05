@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+<![CDATA[
+console.log('${1}');
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>log</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
